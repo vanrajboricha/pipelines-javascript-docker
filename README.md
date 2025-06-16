@@ -6,7 +6,7 @@ The code includes a Dockerfile in `app/Dockerfile`, which includes the steps to 
 
 To use the secret resource, you'll need first create a service account and associated secret. See this [Developer Community post](https://developercommunity.visualstudio.com/t/New-Kubernetes-service-connection-causes/10138123#T-N10138393) for more help. 
 
-# Contributing
+# Contributing  
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
 Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
